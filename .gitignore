@@ -1,0 +1,12 @@
+Thumbs.db
+*.suo
+*.user
+*.sdf
+*.opensdf
+obj/
+bin/
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
